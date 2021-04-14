@@ -29,6 +29,8 @@
 |  L_08       | H_03 | Display Reservations|Display stored information in Structure Using Pointers from file| SUCCESS | Information Display |Requirement based|
 |  L_09       | H_03 | Display Reservations|Display stored information in Structure Using Pointers from file| SUCCESS | Information Display |Requirement based|
 |  L_10       | H_03 | Display Reservations|Display stored information in Structure Using Pointers from file| SUCCESS | Information Display |Requirement based|
-|  L_11       | H_03 | Cancel Reservations|(1). Six-Digit Passport Number used to make the Reservation| SUCCESS | Delete Reservation from file |Requirement based|
-|  L_12       | H_03 | Error in Cancelling Reservations| Wrong Six-Digit Passport Number used to make the Reservation| FAIL | "Passport Number is wrong" |Requirement based|
+|  L_11       | H_04 | Cancel Reservations|(1). Six-Digit Passport Number used to make the Reservation| SUCCESS | Delete Reservation from file |Requirement based|
+|  L_12       | H_05 | Error in Cancelling Reservations| Wrong Six-Digit Passport Number used to make the Reservation| FAIL | "Passport Number is wrong" |Requirement based|
+|  L_13       | H_06 | EXIT Airline Booking Menu|Input Option from User Menu for Exit| SUCCESS | EXIT |Requirement based|
+|  L_14       | H_07 |  After EXIT |All User-Entered information from the session stored information in Structure Using Pointers from file| SUCCESS | EXIT SUCCESS |Requirement based|
 
