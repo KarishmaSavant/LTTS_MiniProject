@@ -71,4 +71,4 @@ Customers can easily navigate through the software to make reservations, confirm
 | LR05 | To EXIT the Ticket Booking software the corresponding option must be selected from the menu | HR04 |  IMPLEMENTED  |
 | LR06 | In case of a full flight the corresponding message shall be displayed | HR01 |  IMPLEMENTED  |
 | LR07 | If opening the file fails, then the system shloud prompt the message "Error in opening file" and should not end the program execution | HR02|  IMPLEMENTED  |
-| LR07 | When user EXITs the system the data of reservations is saved to file | HR02 |  IMPLEMENTED  |
+| LR08 | When user EXITs the system the data of reservations is saved to file | HR02 |  IMPLEMENTED  |
