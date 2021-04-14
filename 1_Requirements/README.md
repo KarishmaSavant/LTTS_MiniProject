@@ -18,7 +18,9 @@ Customers can easily navigate through the software to make reservations, confirm
 * Few premade assumptions our system makes
     * Single Ticket booking at a time
     * Automatic Payment/Refund
-    * Customer enters correct specifications
+    * Customer enters correct ticket specifications
+    * Before EXIT menu all actions belong to a single user
+    * One Ticket at a time to be booked
 ![Description](https://github.com/KarishmaSavant/LTTS_MiniProject/blob/main/1_Requirements/System.png)
 ### Explanation:
 * Airline Booking Software includes features like:
@@ -27,8 +29,8 @@ Customers can easily navigate through the software to make reservations, confirm
     * Display airline ticket records
     * Save records to file
     * Read records from file 
-    * One Ticket at a time to be booked
-    * Before EXIT menu all actions belong to a single user
+    
+    
 
 
 ## SWOT ANALYSIS
