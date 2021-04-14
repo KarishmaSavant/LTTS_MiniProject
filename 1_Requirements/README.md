@@ -55,10 +55,10 @@ Customers can easily navigate through the software to make reservations, confirm
 ## High Level Requirements: 
 | ID | Description | Category | Status | 
 | ----- | ----- | ------- | ---------|
-| HR01 | Customer can make a Reservation | Techincal | IMPLEMENTED | 
-| HR02 | Customer can view Records of Reservations | Techincal |  IMPLEMENTED  |
-| HR03 | Customer can Cancel Ticket Reservations| Techincal |  IMPLEMENTED  |
-| HR04 | Custoner can EXIT the menu | Techincal |  IMPLEMENTED  |
+| HR01 | Customer can make a Reservation | Technical | IMPLEMENTED | 
+| HR02 | Customer can view Records of Reservations | Technical |  IMPLEMENTED  |
+| HR03 | Customer can Cancel Ticket Reservations| Technical |  IMPLEMENTED  |
+| HR04 | Custoner can EXIT the menu | Technical |  IMPLEMENTED  |
 
 ##  Low level Requirements:
 
