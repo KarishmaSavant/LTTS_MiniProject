@@ -15,7 +15,7 @@
 
 
 
-## Table: Low Level Test Plan
+## Table: Low-Level Test Plan
 
 | **Test ID** | **HLT ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
 |-------------|-----|--------------------------------------------------------------|------------|-------------|----------------|------------------|
