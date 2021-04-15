@@ -1,6 +1,7 @@
 # LTTS_MiniProject
 
 ## SDLC Activity Based Learning
+![Airline-Ticket-Boooking](https://github.com/KarishmaSavant/LTTS_MiniProject/blob/main/1_Requirements/Banner.png)
 
 Visit [Pages for Report -optional](using github.io option)
 
