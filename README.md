@@ -17,7 +17,7 @@ Folder             | Description
 `3_Implementation` | All code and documentation
 `4_Test_plan`      | Documents with test plans and procedures
 
-## Contributors List and Summary
+## Contributors 
 
 SF Id. |  Name   |     
 -------|---------|
