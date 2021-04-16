@@ -6,5 +6,6 @@
 ### Component Diagram :
 ![Component-Diagram](https://github.com/KarishmaSavant/LTTS_MiniProject/blob/main/2_Architecture/Structure%20Diagrams/Structural2.jpeg)
 
-## Behavioural Diagrams
+## Low Level Design/Behavioural Diagrams
+### Usecase Diagram
 ![Usecase-Diagram](https://github.com/KarishmaSavant/LTTS_MiniProject/blob/main/2_Architecture/Behavior%20Diagrams/Behavioural1.jpeg)
