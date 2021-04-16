@@ -1,7 +1,7 @@
 # Design
 
 ## High Level Design/Structural Diagrams
-###Logic Flow
+### Logic Flow
 ![Logic-Flow](https://github.com/KarishmaSavant/LTTS_MiniProject/blob/main/1_Requirements/System.png)
 ### Architecture Design :
 ![Architecture-Design](https://github.com/KarishmaSavant/LTTS_MiniProject/blob/main/2_Architecture/Structure%20Diagrams/Structural1.jpeg)
