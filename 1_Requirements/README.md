@@ -67,10 +67,10 @@ Customers can easily navigate through the software to make reservations, confirm
 | ID | Description | HLR ID | Status (Implemented/Future) |
 | ------ | --------- | ------ | ----- |
 | L_01 | New reservation is made after providing all the following information (1). Six-Digit Passport Number (2).Full Name (3). Email Address (4). Destination| HR01 |  IMPLEMENTED  |
-| L_02 | Customer can view records by (1). Selecting the option from the menu alowing to display records | HR02 |  IMPLEMENTED |
-| L_03 | While reading all the records all records made at running the program before exiting the menu will be displayed (1). All reservations made before exiting the menu will be considered as a single customer's ticket reservations| HR02 |  IMPLEMENTED |
-| L_04 | For a customer to cancel a ticket reservation the correct passport id must be entered (1). If wrong passport number is entered the corresponding error message will be displayed | HR03 |  IMPLEMENTED  |
-| L_05 | To EXIT the Ticket Booking software the corresponding option must be selected from the menu | HR04 |  IMPLEMENTED  |
-| L_06 | In case of a full flight the corresponding message shall be displayed | HR01 |  IMPLEMENTED  |
+| L_02 | Customer can view records by (1). Selecting the option from the menu alowing to display records | H_02 |  IMPLEMENTED |
+| L_03 | While reading all the records all records made at running the program before exiting the menu will be displayed (1). All reservations made before exiting the menu will be considered as a single customer's ticket reservations| H_02 |  IMPLEMENTED |
+| L_04 | For a customer to cancel a ticket reservation the correct passport id must be entered (1). If wrong passport number is entered the corresponding error message will be displayed | H_03 |  IMPLEMENTED  |
+| L_05 | To EXIT the Ticket Booking software the corresponding option must be selected from the menu | H_04 |  IMPLEMENTED  |
+| L_06 | In case of a full flight the corresponding message shall be displayed | H_01 |  IMPLEMENTED  |
 | L_07 | If opening the file fails, then the system shloud prompt the message "Error in opening file" and should not end the program execution | HR02|  IMPLEMENTED  |
-| L_08 | When user EXITs the system the data of reservations is saved to file | HR02 |  IMPLEMENTED  |
+| L_08 | When user EXITs the system the data of reservations is saved to file | H_02 |  IMPLEMENTED  |
