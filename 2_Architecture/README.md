@@ -11,3 +11,5 @@
 ## Low Level Design/Behavioural Diagrams
 ### Usecase Diagram
 ![Usecase-Diagram](https://github.com/KarishmaSavant/LTTS_MiniProject/blob/main/2_Architecture/Behavior%20Diagrams/Behavioural1.jpeg)
+### Activity Diagram
+![Usecase-Diagram](https://github.com/KarishmaSavant/LTTS_MiniProject/blob/main/2_Architecture/Behavior%20Diagrams/Behavioural_2.jpeg)
