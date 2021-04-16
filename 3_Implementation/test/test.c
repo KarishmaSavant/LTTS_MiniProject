@@ -1,7 +1,7 @@
 #include "../inc/newproject.h"
 #include "../unity/unity.h"
 #include "../unity/unity_internals.h"
-#include<string.h>
+#include <string.h>
 
 
 /* Required by the unity test framework */
